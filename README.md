@@ -1,20 +1,16 @@
-Hola, soy Francisco! 🦊
-Consultor en UX, UI + Product Designer + Analista CRO, con más de 12 años en diseño y desarrollo de productos digitales.
+Hi, I'm Francisco!
 
-Apoyando diferentes rubros desde mi experiencia laboral como banca, ecommerce, seguros, retail, start-up, logística, medicina; tanto para soluciones para Desktop y aplicaciones móviles híbridas y nativas siempre enfocado en poner a los usuarios en el centro de la solución, balanceando las necesidades del negocio y observando el mercado, ¡Alineando las 3 voces!
+UX specialist, certified in the UX-PM program across all 3 levels, with over 14 years of experience creating user-centered digital solutions tailored to client needs and market trends.
 
-Mis motivaciones, aparte de Rock🤘 y las 🍟, se centran en la creación de productos digitales desde:
-- El Discovery, el Research, el Desarrollo UX y el Delivery 
-- Apuntar a la toma de decisiones de diseño basado en datos. 
-- La comunicación con Stakeholders y emprendedores para encontrar oportunidades de negocio.
-- Apoyo y acompañamiento de equipos internos en Gestion, ResearchOps y DesignOps.
+I have collaborated across various industries, including banking, e-commerce, insurance, retail, startups, logistics, medicine, and artificial intelligence, addressing solutions for hybrid and native mobile applications, as well as desktop digital products like dashboards and conversion-driven websites.
 
-¿Tienes algún proyecto en mente o tu producto necesita una consultoría en UX? 
+My passions, aside from rock 🎸, 1:64 scale cars 🚗, and homemade food 🍜, are focused on creating impactful digital products by leveraging:
 
-🌐 ¡Estemos conectados! Encuentra parte de mi trabajo en www.fcophox.com
+- Research to inform data-driven design decisions.
+- Digital product design decisions based on data for optimal results.
+- Participation throughout the product lifecycle, from discovery to UI development and delivery.
+- Communication with stakeholders, teams, and entrepreneurs to enhance business opportunities.
+- Support and guidance for internal teams in UX Management, ResearchOps, and DesignOps.
 
-<!---
-fcophox/fcophox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+Do you have a project in mind or need to optimize the UX of your digital product? 
+🌐 Let’s connect! Explore some of my work at www.fcophox.com.
